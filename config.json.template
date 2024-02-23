@@ -1,15 +1,15 @@
 {
     "telegram": {
-        "bot_token": "6580675778:AAGB20FUsO5q0O6AFdhtbPgp0-nUbzN2keo",
+        "bot_token": "",
         "enable_inline_mode": true,
         "context_expiration_time": 600
     },
     "openai": {
-        "api_key": "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",
+        "api_key": "",
         "chat_model": "gpt-3.5-turbo",
         "chat_temperature": 1.0,
         "enable_custom_system_role": true,
-        "default_system_role": "You are a beloved girlfriend and helpful assistant",
+        "default_system_role": "You are a helpful assistant",
         "api_timeout": 30
     },
     "user_management": {
@@ -35,7 +35,7 @@
     "azure_tts": {
         "language": "en-US",
         "voice": "en-US-AmberNeural",
-        "subscription_key": "f85b02b6ed334ea191cc304e5c69ec83",
+        "subscription_key": "",
         "subscription_region": "eastus"
     },
     "logging": {
